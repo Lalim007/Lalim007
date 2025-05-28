@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Warley, mas pode me chamar de Lalim
 
-<!--
-**Lalim007/Lalim007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na [Proz Educação]  
+💻 Apaixonado por tecnologia, desenvolvimento web e soluções criativas  
+🚀 Em busca de estágio ou oportunidade júnior para colocar meus conhecimentos em prática  
+📚 Atualmente aprendendo: HTML, CSS, JavaScript, Python e lógica de programação  
 
-Here are some ideas to get you started:
+## 💼 Projetos em destaque
+- [Portfolio](https://github.com/Lalim007/portif-lio.git)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+- ✉️ warlicampos123@gmail.com
+
+
+---
+
+⭐ Sinta-se à vontade para ver meus repositórios e contribuir!
