@@ -6,11 +6,12 @@
 📚 Atualmente aprendendo: HTML, CSS, JavaScript, Python e lógica de programação  
 
 ## 💼 Projetos em destaque
-- [Portfolio](https://github.com/Lalim007/portif-lio.git)
+- ✍️[Portfolio](https://github.com/Lalim007/portif-lio.git)
 
 ## 📫 Contato
 
-- ✉️ warlicampos123@gmail.com
+- ✉️ [Email](warlicampos123@gmail.com)
+
 
 
 ---
